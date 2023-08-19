@@ -32,6 +32,7 @@ $posts = $stmt -> fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
    <div class=" container mt-5 w-50 m-auto">
+    
    <table class="table table-striped table-hover table-responsive">
     <!-- table head -->
         <thead>
